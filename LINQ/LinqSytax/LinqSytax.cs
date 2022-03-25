@@ -11,7 +11,7 @@ namespace LinqSytax
         public string Surname { get; set; }
 
     }
-    class Program
+    class LinqSytax
     {
         static void Main(string[] args)
         {
